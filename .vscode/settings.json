@@ -1,3 +1,7 @@
 {
     "python.pythonPath": "django-tutorial-venv\\Scripts\\python.exe"
+    "python.formatting.provider": "autopep8"
+    "python.linting.pylintEnabled": true
+    "python.linting.enabled": true
+    "python.linting.pylintPath": "django-tutorial-venv\\Scripts\\pylint.exe"
 }
